@@ -1,0 +1,1 @@
+const t={key:"v-3d348eca",path:"/questions/Node/npmScript%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648441395e3,contributors:[{name:"chenzilin",email:"czl624824554@163.com",commits:1}]},filePathRelative:"questions/Node/npmScript\u4F7F\u7528\u6307\u5357.md"};export{t as data};

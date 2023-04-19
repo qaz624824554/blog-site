@@ -1,0 +1,1 @@
+const e={key:"v-1588fb89",path:"/questions/Brower/devtools%E8%B0%83%E8%AF%95%E6%8A%80%E5%B7%A7.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648441395e3,contributors:[{name:"chenzilin",email:"czl624824554@163.com",commits:1}]},filePathRelative:"questions/Brower/devtools\u8C03\u8BD5\u6280\u5DE7.md"};export{e as data};
