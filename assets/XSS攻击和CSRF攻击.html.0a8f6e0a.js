@@ -1,0 +1,1 @@
+const e={key:"v-7b7d139f",path:"/questions/Safe/XSS%E6%94%BB%E5%87%BB%E5%92%8CCSRF%E6%94%BB%E5%87%BB.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648441395e3,contributors:[{name:"chenzilin",email:"czl624824554@163.com",commits:1}]},filePathRelative:"questions/Safe/XSS\u653B\u51FB\u548CCSRF\u653B\u51FB.md"};export{e as data};

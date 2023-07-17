@@ -1,0 +1,1 @@
+const t={key:"v-4fc0ccc8",path:"/questions/Brower/ShadowRoot.html",title:"ShadowRoot",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5C5E\u6027",slug:"\u5C5E\u6027",children:[]}],git:{updatedTime:1648441395e3,contributors:[{name:"chenzilin",email:"czl624824554@163.com",commits:1}]},filePathRelative:"questions/Brower/ShadowRoot.md"};export{t as data};
